@@ -1,0 +1,8 @@
+{
+    "name": "datautils-service",
+    "version": "1.0.162",
+    "private": false,
+    "environment": "production",
+    "build_id": 225,
+    "allow_public_access": true
+}
